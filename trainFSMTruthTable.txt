@@ -1,0 +1,22 @@
+number	arms_down	alarm_on	northbound_present	southbound_present	north_approach	south_approach	north_depart	south_depart	ringing	safety_hazard
+0	0		0		0			0			0		0		0		0		0	0
+1	0		0		0			1			0		1		0		0		0	5			
+2	0		0		1			0			1		0		0		0		0	6
+3	0		0		1			1			1		1		0		0		0	7
+4	0		1		0			0			0		0		0		0		1	16	
+5	0		1		0			1			0		1		0		1		1	13
+6	0		1		1			0			1		0		0		0		1	14
+7	0		1		1			1			1		1		0		0		1	15
+8	1		0		0			0			0		0		0		0		0	18
+9	1		0		0			1			0		0		0		1		0	17
+10	1		0		1			0			0		0		1		0		0	17
+11	1		0		1			1			0		0		1		1		0	17
+12	1		1		0			0			0		0		0		0		0	16
+13	1		1		0			1			0		1		0		1		1	0
+14	1		1		1			0			1		0		0		0		1	0	
+15	1		1		1			1			1		1		0		0		1	0
+
+number	invariant
+16	Alarm off while no train present
+17	Alarm on while train is present
+18 	Arms are up while no train present
