@@ -6,4 +6,5 @@ page 3 is Hongs 1st FSM
 
 Our New FSM is quite similar to some of our pervious FSM's 
 However, there are some diffrences. I included the timing as an event 
-but hong did not this simplifed things greatly
+but hong did not. Hong's FSM was able to simplify things greatly 
+so we used this in the final FSM.
