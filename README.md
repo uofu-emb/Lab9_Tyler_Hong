@@ -1,6 +1,7 @@
 Hong Chen, and Tyler Evans. 
-
-page 1 is the complete final FSM 
+5785 is the final FSM 
+the md file that is not the readme is the FSM state table. 
+page 1 is the final draft FSM 
 page 2 is Tyler's 1st FSM
 page 3 is Hongs 1st FSM 
 
